@@ -22,7 +22,7 @@ $ ls -l add_bg.wasm
 -rw-rw-r-- 1 alex alex 710 Sep 19 17:32 add_bg.wasm
 ```
 
-If you run [wasm-opt], a C++ tool for optimize WebAssembly, you can make it
+If you run [wasm-opt], a C++ tool for WebAssembly optimization, you can make it
 even smaller too!
 
 ```
